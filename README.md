@@ -25,6 +25,10 @@ Install these dependencies using:
 pip install -r requirements.txt
 ```
 
+I have GPU for training purposes. So for installing cuda to your system, refer the site and install as per your system requirements.
+                  
+          https://pytorch.org/get-started/locally/
+
 Setup and Running the Project
 
 1. Clone the Repository
