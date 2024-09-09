@@ -38,7 +38,7 @@ Setup and Running the Project
 git clone https://github.com/AtulPriyank11/image_classify_george.git
 ```
 
-2. Refer the main.ipynb file and main docs.docx file.
+2. Refer the main.ipynb file and documentation file.
 
 3. Reasoning Behind Choices
 
