@@ -30,4 +30,7 @@ Setup and Running the Project
 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/AtulPriyank11/image_classify_george.git
+```
+
+2. Refer the main.ipynb file
