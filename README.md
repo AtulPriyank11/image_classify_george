@@ -33,4 +33,10 @@ Setup and Running the Project
 git clone https://github.com/AtulPriyank11/image_classify_george.git
 ```
 
-2. Refer the main.ipynb file
+2. Refer the main.ipynb file and main docs.docx file.
+
+3. Reasoning Behind Choices
+
+Pre-trained Model: EfficientNet-B0 was chosen for its efficient performance on classification tasks. It is pre-trained on ImageNet, providing a solid foundation for transfer learning and reducing the need for extensive training data.
+
+
